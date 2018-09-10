@@ -1,11 +1,12 @@
 package dao;
-/*Essa classe ser· usada para manipularmos nossa conex„/operacao com o banco de dados!
- * Nela faremos a conex„o
- * O envio de instruÁıes que modificam os dados de uma tabela
- * O envio de instruÁıes que retornam dados de uma tabela
+/*Essa classe ser√° usada para manipularmos nossa conex√£/operacao com o banco de dados!
+ * Nela faremos a conex√£o
+ * O envio de instru√ß√µes que modificam os dados de uma tabela
+ * O envio de instru√ß√µes que retornam dados de uma tabela
  * */
 
 //teste- editando eclipse
+//teste2
 
 
 import java.sql.Connection;
